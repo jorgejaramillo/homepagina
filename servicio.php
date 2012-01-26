@@ -1,4 +1,7 @@
 <!DOCTYPE html>
+<?php
+//Esto es un prueba de edicion 
+?>
 <html lang="en">
   <head>
     <meta charset="utf-8">
