@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>homepagina</name>
+=======
+	<name>Deelf</name>
+>>>>>>> bece56b900e717027af18f60d6b736996b410555
 	<comment></comment>
 	<projects>
 	</projects>
@@ -10,8 +14,19 @@
 			<arguments>
 			</arguments>
 		</buildCommand>
+<<<<<<< HEAD
 	</buildSpec>
 	<natures>
+=======
+		<buildCommand>
+			<name>com.aptana.editor.php.aptanaPhpBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>com.aptana.editor.php.phpNature</nature>
+>>>>>>> bece56b900e717027af18f60d6b736996b410555
 		<nature>com.aptana.projects.webnature</nature>
 	</natures>
 </projectDescription>
