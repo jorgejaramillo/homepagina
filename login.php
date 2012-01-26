@@ -57,7 +57,7 @@
 		</div>
       </div>
 <div class="well" style="padding: 16px 19px;">
-    Logos 
+    Logos asdasd
       </div>
 
     </div> <!-- /container -->
