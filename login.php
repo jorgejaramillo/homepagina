@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>Bootstrap, from Twitter</title>
+    <title>Login</title>
     <meta name="description" content="">
     <meta name="author" content="">
 
@@ -13,7 +13,7 @@
 
     <!-- Le styles -->
     <link href="_/css/bootstrap.css" rel="stylesheet">
-    <link href="../style.css" rel="stylesheet">
+    <link href="_/css/style.css" rel="stylesheet">
     <style type="text/css">
       body {
         padding-top: 60px;
@@ -45,7 +45,16 @@
     <div class="container">
       <!-- Example row of columns -->
       <div class="row" id="login">
-	a
+		<div class="span6" id="login">
+		<div class="well">
+		<h4>Ingresa tu correo</h4>
+		<input class="xlarge" id="xlInput" name="xlInput" size="30" type="text" placeholder="Ingresa tu email">
+		<h4>Tu contraseña</h4>
+		<input class="xlarge" id="xlInput" name="xlInput" size="30" type="text" placeholder="Ingresa tu correo">
+		<hr>
+		<button type="reset" class="btn">Entrar</button> <button type="reset" class="btn">Cancelar</button>
+      </div>		
+		</div>
       </div>
 <div class="well" style="padding: 16px 19px;">
     Logos 
